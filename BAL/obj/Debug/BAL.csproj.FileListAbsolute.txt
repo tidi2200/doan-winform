@@ -1,0 +1,108 @@
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BAL\obj\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\BAL\obj\Debug\BAL.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\SV\Desktop\Do An2\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\SV\Desktop\Do An2\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\SV\Desktop\Do An2\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\SV\Desktop\Do An2\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\SV\Desktop\Do An2\DoAn\BAL\obj\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\Do An2\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An2\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\Do An2\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\Do An2\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\TiBon\Desktop\Do An2\DoAn\BAL\obj\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An2\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An2\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\trand\Desktop\Do An2\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An2\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An2\DoAn\BAL\obj\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\BAL\obj\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BAL\obj\Debug\BAL.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.dll
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.dll
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.dll
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.dll
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.pdb
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.dll
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.pdb
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.dll
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.dll
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.pdb
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.pdb
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.dll
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.dll
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BAL\obj\Debug\BAL.pdb

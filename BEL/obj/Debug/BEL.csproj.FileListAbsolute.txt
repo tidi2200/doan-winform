@@ -1,0 +1,34 @@
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BEL\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BEL\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BEL\obj\Debug\BEL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\BEL\obj\Debug\BEL.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\BEL\bin\Debug\BEL.dll
+C:\Users\SV\Desktop\Do An2\DoAn\BEL\bin\Debug\BEL.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\BEL\obj\Debug\BEL.dll
+C:\Users\SV\Desktop\Do An2\DoAn\BEL\obj\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\BEL\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An2\DoAn\BEL\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\Do An2\DoAn\BEL\obj\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An2\DoAn\BEL\obj\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\BEL\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An2\DoAn\BEL\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An2\DoAn\BEL\obj\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An2\DoAn\BEL\obj\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BEL\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BEL\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BEL\obj\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\BEL\obj\Debug\BEL.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BEL\bin\Debug\BEL.dll
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BEL\bin\Debug\BEL.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BEL\obj\Debug\BEL.dll
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\BEL\obj\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BEL\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BEL\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BEL\obj\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\BEL\obj\Debug\BEL.pdb

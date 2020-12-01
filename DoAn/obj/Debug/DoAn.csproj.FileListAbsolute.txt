@@ -1,0 +1,426 @@
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\trand\Desktop\Trần Dương\Đồ Án winform\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\TiBon\Desktop\WinForm\Do An\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\TiBon\Desktop\WinForm\Do An2\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\SV\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\TiBon\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.ThongKe.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.tkDoanhThu.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\RdlCompile.cache
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\rptDoanhThu.rdlc
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\rptHoaDon.rdlc
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\rptKhachHang.rdlc
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\rptNhanVien.rdlc
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\bin\Debug\rptSanPham.rdlc
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.tkHoaDon.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.tkKhachHang.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.tkNhanVien.resources
+C:\Users\trand\Desktop\Do An2\DoAn\DoAn\obj\Debug\DoAn.tkSanPham.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\rptDoanhThu.rdlc
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\rptHoaDon.rdlc
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\rptKhachHang.rdlc
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\rptNhanVien.rdlc
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\rptSanPham.rdlc
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.ThongKe.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.tkDoanhThu.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.tkHoaDon.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.tkKhachHang.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.tkNhanVien.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.tkSanPham.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\RdlCompile.cache
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+C:\Users\trand\Desktop\Do An img br 18-7\DoAn\DoAn\obj\Debug\DoAn.NhaCungCap.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\rptDoanhThu.rdlc
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\rptHoaDon.rdlc
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\rptKhachHang.rdlc
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\rptNhanVien.rdlc
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\rptSanPham.rdlc
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.NhaCungCap.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.ThongKe.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.tkDoanhThu.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.tkHoaDon.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.tkKhachHang.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.tkNhanVien.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.tkSanPham.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\RdlCompile.cache
+C:\Users\TiBon\Desktop\Do An 27-7 tim HD\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptDoanhThu.rdlc
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptHoaDon.rdlc
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptKhachHang.rdlc
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptNhanVien.rdlc
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptSanPham.rdlc
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.dll
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.dll
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.dll
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.pdb
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhaCungCap.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.ThongKe.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkDoanhThu.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkHoaDon.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkKhachHang.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkNhanVien.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkSanPham.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.cache
+D:\Download\Do An 27-7 Dat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptDoanhThu.rdlc
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptHoaDon.rdlc
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptKhachHang.rdlc
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptNhanVien.rdlc
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptSanPham.rdlc
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhaCungCap.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.ThongKe.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkDoanhThu.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkHoaDon.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkKhachHang.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkNhanVien.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkSanPham.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.cache
+C:\Users\trand\Desktop\Do An 28-7 BaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptDoanhThu.rdlc
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptHoaDon.rdlc
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptKhachHang.rdlc
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptNhanVien.rdlc
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptSanPham.rdlc
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhaCungCap.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.ThongKe.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkDoanhThu.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkHoaDon.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkKhachHang.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkNhanVien.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkSanPham.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.cache
+C:\Users\trand\Desktop\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptDoanhThu.rdlc
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptHoaDon.rdlc
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptKhachHang.rdlc
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptNhanVien.rdlc
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptSanPham.rdlc
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.dll
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.dll
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.dll
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.pdb
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.pdb
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.pdb
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhaCungCap.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.ThongKe.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkDoanhThu.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkHoaDon.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkKhachHang.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkNhanVien.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkSanPham.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.cache
+D:\Download\Do An 28-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptDoanhThu.rdlc
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptHoaDon.rdlc
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptKhachHang.rdlc
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptNhanVien.rdlc
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\rptSanPham.rdlc
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.dll
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.dll
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.dll
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BAL.pdb
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\BEL.pdb
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\bin\Debug\DAL.pdb
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.BanHang.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiMatKhau.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDoiThongTin.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmHome.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.frmQuanLyTaiKhoan.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.HoaDon.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.KhachHang.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhaCungCap.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.NhanVien.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.SanPham.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.ThongKe.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkDoanhThu.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkHoaDon.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkKhachHang.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkNhanVien.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.tkSanPham.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.cache
+C:\Users\TiBon\Desktop\Do An 30-7 DuongBaoDat-final\Do An 28-7 DuongBaoDat-final\Do An 28-7 BaoDat-final\Do An 27-7 Dat-final\DoAn\DoAn\obj\Debug\RdlCompile.compiled
